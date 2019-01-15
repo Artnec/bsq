@@ -2,7 +2,7 @@
 
 algorithm that finds largest empty square on a map, filled with obstacles. 
 
-to generate random maps use perl script perl_map_generator.pl.
+to generate random maps use script perl_map_generator.pl.
 
 how to use perl_map_generator.pl:
 ```
